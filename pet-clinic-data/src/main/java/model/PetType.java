@@ -1,4 +1,4 @@
-package ca.gbc.comp3095.petclinicthursday.model;
+package model;
 
 public class PetType {
 
