@@ -14,7 +14,7 @@
     </parent>
     <groupId>ca.gbc.comp3095</groupId>
     <artifactId>pet-clinic-thursday</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>pet-clinic-thursday</name>
     <description>COMP3095 Labs</description>
 
@@ -24,7 +24,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/gbc343/pet-clinic-thursday.git</developerConnection>
-      <tag>pet-clinic-thursday-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 
