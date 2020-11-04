@@ -8,11 +8,11 @@ public interface OwnerService extends CrudService<Owner, Long> {
 
     Owner findByLastName(String lastname);
 
-   // Owner findById(Long id);
+    // Owner findById(Long id);
 
-   // Owner save(Owner owner);
+    // Owner save(Owner owner);
 
-   // Set<Owner> findAll();
+    // Set<Owner> findAll();
 
 
 }
